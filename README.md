@@ -1,3 +1,4 @@
+![logo](https://github.com/HasnainRaza026/HasnainRaza026/blob/main/Untitled%20design%20(1).png)
 <h1 align="center">Hi 👋, I'm Muhammad Hasnain Raza</h1>
 <h3 align="center">A passionate Mechatronics Engineering student</h3>
 
