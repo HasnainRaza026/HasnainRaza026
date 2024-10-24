@@ -1,17 +1,17 @@
 ![logo](https://github.com/HasnainRaza026/HasnainRaza026/blob/main/Untitled%20design%20(1).png)
 <h1 align="center">Hi 👋, I'm Muhammad Hasnain Raza</h1>
-<h3 align="center">A passionate Mechatronics Engineering student</h3>
+<h3 align="center">Aspiring Full-Stack Developer</h3>A passionate Mechatronics Engineering student
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnainraza026&label=Profile%20views&color=0e75b6&style=flat" alt="hasnainraza026" /> </p>
 
 - 🌱 I’m currently learning **Machine Vision, IOT, SolidWorks**
 
-- 💬 Ask me about **Python, Embedded Systems**
+- 💬 Ask me about **Python, FLask, Django, HTML, CSS, React**
 
 - 📫 How to reach me **hasnainraza0026@gmail.com**
 
-- ⚡ Fun fact **I am a meme lover**
+- ⚡ Fun fact **I love memes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
