@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnainraza026&label=Profile%20views&color=0e75b6&style=flat" alt="hasnainraza026" /> </p>
 
-- 🌱 I’m currently learning **Flask, Bootstrap and other full-stack tools**
+- 🌱 I’m currently learning **Next.js, Django and Full Stack Development**
 
-- 💬 Ask me about **Python, FLask, Django, HTML, CSS, React**
+- 💬 Ask me about **Python, JavaScript, FLask, Django, HTML, CSS, React, Tailwind CSS**
 
 - 📫 How to reach me **hasnainraza0026@gmail.com**
 
